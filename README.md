@@ -1,6 +1,6 @@
 # WSAlertRating
 
-A library to help you show rating alert. This library actually an Alertview but i has made subclass from it to be rating alert.
+A library to help you show rating alert. This library actually an Alertview but i made subclass from it to be rating alert.
 
 ![alt text](https://i.imgur.com/O3u56H1.gif "WSAlertRating")
 
