@@ -5,6 +5,13 @@ A library to help you show rating alert. This library actually an Alertview but 
 ![alt text](https://i.imgur.com/O3u56H1.gif "WSAlertRating")
 
 # Usage
+
+don't forget to import WSAlertRating.h file to your controller
+```
+#import WSAlertRating.h
+```
+then call AlertRating using this below code :
+
 ```Objective-c
     WSAlertRating *alertRating = [[WSAlertRating alloc] initAlertControllerWithTitle:@"Title Alert Rate" message:@"this is message, you can write anything here."];
     UIAlertAction *cancel = [UIAlertAction actionWithTitle:@"Cancel" style:UIAlertActionStyleCancel handler:nil];
